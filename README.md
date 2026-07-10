@@ -4,7 +4,7 @@
 
 ### 🎓 PhD Student | 🤖 AI Researcher | 🐍 Python & Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Internal+Auditing;Python+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Internal+Auditing" />
 
 <br>
 
@@ -33,32 +33,10 @@
 
 ---
 
-## 🎯 Research Interests
-
-🧠 Artificial Intelligence
-
-📊 Machine Learning
-
-🔍 Internal Auditing
-
-📈 Data Analytics
-
-⚠️ Risk Assessment
-
-🛡️ Fraud Detection
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bouhelal-Kheira&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouhelal-Kheira&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
-### ✨ "Empowering Internal Auditing with Artificial Intelligence."
+### ✨ "Researching the Future of Internal Auditing with Artificial Intelligence." ✨
 
 </div>
 
