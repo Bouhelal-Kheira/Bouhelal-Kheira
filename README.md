@@ -2,93 +2,66 @@
 
 # 👋 Hi, I'm Kheira Bouhelal
 
-### 🎓 PhD Student in Accounting & Auditing
+### 🎓 PhD Student | 🤖 AI Researcher | 🐍 Python & Machine Learning
 
-### 🤖 Artificial Intelligence | 🐍 Python | 📊 Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Internal+Auditing;Python+Developer" />
 
----
+<br>
 
-*"Transforming Internal Auditing through Artificial Intelligence and Data Analytics."*
+<p>
+<img src="https://skillicons.dev/icons?i=python,vscode"/>
+</p>
 
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍🎓 About Me
 
 - 🎓 PhD Student in Accounting & Auditing
 - 🤖 Researching Artificial Intelligence in Internal Auditing
-- 🐍 Python Developer for Data Analysis and Machine Learning
-- 📚 Currently learning Machine Learning and Deep Learning
-- 📈 Interested in Intelligent Audit Systems and Predictive Analytics
-- 🌍 Based in Algeria
-
----
-## 🛠️ Tech Stack
-
-### Programming Language
-
-- 🐍 Python
-
-### Data Analysis
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-### Machine Learning
-
-- Scikit-learn
-
-### Development Tools
-
-- Jupyter Notebook
-- Visual Studio Code
-- GitHub
+- 🐍 Python for Data Analysis & Machine Learning
+- 📚 Currently learning Machine Learning & Deep Learning
+- 🌍 Based in Algeria 🇩🇿
 
 ---
 
 ## 🎯 Research Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Internal Auditing
--  Data Analytics
-- Risk Assessment
-- Fraud Detection
-- Intelligent Audit Systems
+🧠 Artificial Intelligence
 
----
+📊 Machine Learning
 
-## 🌱 Currently Learning
+🔍 Internal Auditing
 
-- Machine Learning
-- Deep Learning
-- Feature Engineering
-- Model Evaluation
-- AI Applications in Internal Auditing
+📈 Data Analytics
 
----
+⚠️ Risk Assessment
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bouhelal-Kheira&show_icons=true&theme=tokyonight"/>
+🛡️ Fraud Detection
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bouhelal-Kheira&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouhelal-Kheira&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouhelal-Kheira&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ✨ "Empowering Internal Auditing with Artificial Intelligence."
 
 </div>
-## 🛠️ Tech Stack
 
-### Programming Language
+---
+
+<div align="center">
